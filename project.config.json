@@ -14,7 +14,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.0.4",
 	"appid": "wxdac35d583709a0c3",
-	"projectname": "%E5%8E%82%E6%8B%9B%E7%BD%91%E7%A4%BE%E5%8C%BA",
+	"projectname": "larabbs-weapp",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
